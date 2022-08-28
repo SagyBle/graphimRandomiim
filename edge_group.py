@@ -1,5 +1,3 @@
-from edge import Edge
-
 
 class EdgeGroup:
     def __init__(self):
