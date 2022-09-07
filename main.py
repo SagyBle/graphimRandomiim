@@ -5,7 +5,7 @@ from vertice import Vertice
 
 if __name__ == '__main__':
 
-    # Constants assignments.
+    # Constants assignment.
     NUMBER_OF_VERTICES = 10
     GRAPH_ID = 0
     EDGE_EXISTENCE_PROBABILITY = 0.1
