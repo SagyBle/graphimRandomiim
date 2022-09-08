@@ -29,3 +29,6 @@ class Component:
         for c in component_set:
             output += c.to_string() + ", "
         return output[:-2] + '}'
+
+    def get_component_size(self) -> int:
+        return len(self.vertices)
